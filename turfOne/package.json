@@ -1,0 +1,15 @@
+{
+  "name": "turfone",
+  "version": "1.0.0",
+  "description": "playing with turfjs in concert with geojson and mapbox",
+  "main": "drawMap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natalie Mastracci",
+  "license": "ISC",
+  "dependencies": {
+    "mapbox": "^1.0.0-beta10",
+    "turf": "^3.0.14"
+  }
+}
